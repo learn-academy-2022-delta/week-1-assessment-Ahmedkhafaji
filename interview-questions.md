@@ -17,7 +17,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   Your answer: git is like the control, and github is the like the cloud. 
 
-  Researched answer: Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
+  Researched answer: git is a control system that allows me to manage my code. github is like the cloud to put up my work into a repo. 
 
 
 
@@ -34,8 +34,8 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   Your answer: value is a part of the code representing a variable. index is the whole string.
 
-  Researched answer:---index property is a read-only property. It contains the position of a regular expression match within a string.
-  ---values are possessing some definite properties which is being used as per the requirement and run time environment while executing the JavaScript.
+  Researched answer:---index has the position of a regular expression in a string.
+  ---values has properties that is set by rules when running the code. 
 
 
 
@@ -43,7 +43,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   Your answer: to go down a string in order wanted. whether to go thru the string values if rules apply. I think I am talking about a whole different thing. 
 
-  Researched answer:Loops allow programs to perform repetitive tasks, such as iterating through an array, while adhering to the DRY principle (Don't Repeat Yourself). They come in handy when you want to execute a function a number of times, using different sets of inputs each time. (ok now im confused) 
+  Researched answer:Loops perform repetitive tasks, iterating through an array, and knowing when to stop by setting a rule.  
 
 
 
@@ -51,10 +51,8 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   Your answer: I love to be DRIver!!! my partner would dircet me as the navigator as we are buliding the code togther!!!
 
-  Researched answer: Set your whole team up for success by scheduling a time when you can all sync up and do pair programming together. ...
-Figure out how long you want each person to be the driver and navigator for. ...
-Make sure you're saving your code as frequently as possible.
-Ask a lot of questions.
+  Researched answer: everyone must work togther and be on the same call. switching out between the driver and the navigator by taking turns. both parties depending on who is driving must save the code. ask eachother questions!! 
+
 
 
 
